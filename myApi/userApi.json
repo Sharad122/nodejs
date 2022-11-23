@@ -1,0 +1,78 @@
+[
+    {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "patient_id": "P00027",
+      "year_of_birth": 1993,
+      "gender": "female",
+      "diagnosis": [
+        {
+          "diag_id": "2068",
+          "code": "L54.0",
+          "diag_date": "2008-11-26",
+          "description": "Erythema marginatum in acute rheumatic fever",
+          "patient_id": "P00027"
+        },
+        {
+          "diag_id": "2069",
+          "code": "L51.1",
+          "diag_date": "2003-01-15",
+          "description": "Bullous erythema multiforme",
+          "patient_id": "P00027"
+        },
+        {
+          "diag_id": "2070",
+          "code": "L53.3",
+          "diag_date": "2006-04-20",
+          "description": "Other chronic figurate erythema",
+          "patient_id": "P00027"
+        },
+        {
+          "diag_id": "2071",
+          "code": "L59.9",
+          "diag_date": "2007-05-02",
+          "description": "Disorder of skin and subcutaneous tissue related to radiation, unspecified",
+          "patient_id": "P00027"
+        }
+      ]
+    },
+  
+    {
+      "city": "Bordeaux",
+      "country": "France",
+      "patient_id": "P00368",
+      "year_of_birth": 1990,
+      "gender": "female",
+      "diagnosis": [
+        {
+          "diag_id": "2773",
+          "code": "L56.4",
+          "diag_date": "2011-08-11",
+          "description": "Polymorphous light eruption",
+          "patient_id": "P00368"
+        },
+        {
+          "diag_id": "2774",
+          "code": "L54.0",
+          "diag_date": "2003-01-14",
+          "description": "Erythema marginatum in acute rheumatic fever",
+          "patient_id": "P00368"
+        },
+        {
+          "diag_id": "2775",
+          "code": "L53.3",
+          "diag_date": "2004-11-03",
+          "description": "Other chronic figurate erythema",
+          "patient_id": "P00368"
+        },
+        {
+          "diag_id": "2776",
+          "code": "L58.0",
+          "diag_date": "2013-04-01",
+          "description": "Acute radiodermatitis",
+          "patient_id": "P00368"
+        }
+      ]
+    }
+   
+  ]
